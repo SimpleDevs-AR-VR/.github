@@ -30,3 +30,10 @@ A simulation of continuous crowds, through vector field-based pathfinding. Not s
 |Unity Version|HTTPS|SSH|
 |:-|:-|:-|
 |2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Continuous-Crowds.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Continuous-Crowds.git|
+
+### 2D Boids Test
+An attempt at Pathfinding using Boid behavior. It works reasonably... not well. Boids is meant for more like group-based obstacle avoidance, not pathfinding. Though the results are interesting.
+[https://github.com/SimpleDevs-AR-VR/2D-Boids-Test](https://github.com/SimpleDevs-AR-VR/2D-Boids-Test)
+|Unity Version|HTTPS|SSH|
+|:-|:-|:-|
+|2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/2D-Boids-Test.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/2D-Boids-Test.git|
