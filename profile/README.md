@@ -21,12 +21,12 @@ To break up URLs so that they don't hyperlink inside of Github, use the Zero-Spa
 Simulations, Iterations, and Experiments with AI pathfinding, starting off with Unity's NavMesh pathfinding and extending from there.
 [https://github.com/SimpleDevs-AR-VR/Nav-Mesh](https://github.com/SimpleDevs-AR-VR/Nav-Mesh)
 |Unity Version|HTTPS|SSH|
-|:-|:-|:-|:-|
+|:-|:-|:-|
 |2021.3.9f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Nav-Mesh.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Nav-Mesh.git|
 
 ### Continuous Crowds
 A simulation of continuous crowds, through vector field-based pathfinding. Not scalable.
 [https://github.com/SimpleDevs-AR-VR/Continuous-Crowds](https://github.com/SimpleDevs-AR-VR/Continuous-Crowds)
 |Unity Version|HTTPS|SSH|
-|:-|:-|:-|:-|
+|:-|:-|:-|
 |2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Continuous-Crowds.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Continuous-Crowds.git|
