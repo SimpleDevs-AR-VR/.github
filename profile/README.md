@@ -15,7 +15,16 @@ To break up URLs so that they don't hyperlink inside of Github, use the Zero-Spa
 * For SSH URLs, add after `@`.
 -->
 
-## Important Repositories:
+## XR + Unity - Setups & Prototypes
+
+### Unity XR Test
+A rough prototype of a simple XR setup using the OpenXR system that Unity pushed a while ago. Merely a test setup.
+[https://github.com/SimpleDevs-AR-VR/Unity-XR-Test](https://github.com/SimpleDevs-AR-VR/Unity-XR-Test)
+|Unity Version|HTTPS|SSH|
+|:-|:-|:-|
+|2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Unity-XR-Test.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Unity-XR-Test.git|
+
+## AI Pathfinding Inquiries
 
 ### Nav Mesh
 Simulations, Iterations, and Experiments with AI pathfinding, starting off with Unity's NavMesh pathfinding and extending from there.
