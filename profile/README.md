@@ -24,6 +24,8 @@ A rough prototype of a simple XR setup using the OpenXR system that Unity pushed
 |:-|:-|:-|
 |2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Unity-XR-Test.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Unity-XR-Test.git|
 
+---
+
 ## AI Pathfinding Inquiries
 
 ### Nav Mesh
@@ -46,3 +48,14 @@ An attempt at Pathfinding using Boid behavior. It works reasonably... not well. 
 |Unity Version|HTTPS|SSH|
 |:-|:-|:-|
 |2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/2D-Boids-Test.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/2D-Boids-Test.git|
+
+---
+
+## Miscellaneous
+
+### 2D Platformer Test
+A test implementation of a custom Character Controller engine. The engine is tested on a 2D platformer setting.
+[https://github.com/SimpleDevs-AR-VR/2D-Platformer-Test](https://github.com/SimpleDevs-AR-VR/2D-Platformer-Test)
+|Unity Version|HTTPS|SSH|
+|:-|:-|:-|
+|2020.3.27f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/2D-Platformer-Test.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/2D-Platformer-Test.git|
