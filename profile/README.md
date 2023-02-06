@@ -15,6 +15,16 @@ To break up URLs so that they don't hyperlink inside of Github, use the Zero-Spa
 * For SSH URLs, add after `@`.
 -->
 
+## Major Projects
+
+### StreetSim (ONGOING)
+Simulation of urban street-crossing scenarios. Developed in Fall 2022 @ NYU
+[https://github.com/SimpleDevs-AR-VR/Nav-Mesh](https://github.com/SimpleDevs-AR-VR/Nav-Mesh)
+|Unity Version|HTTPS|SSH|
+|:-|:-|:-|
+|2021.3.9f1|https&#xfeff;://github.com/SimpleDevs-AR-VR/Nav-Mesh.git|git@&#xfeff;github.com:SimpleDevs-AR-VR/Nav-Mesh.git|
+
+
 ## XR + Unity - Setups & Prototypes
 
 ### Unity XR Test
